@@ -1,0 +1,14 @@
+[
+  {
+    "id": "m-001",
+    "name": "Akhmad Hafidz",
+    "role": "Lead",
+    "joinedAt": "2024-09-01"
+  },
+  {
+    "id": "m-003",
+    "name": "Aurora",
+    "role": "Designer",
+    "joinedAt": "2024-11-10"
+  }
+]
