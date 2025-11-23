@@ -2,12 +2,6 @@
 
 API sederhana untuk memenuhi kebutuhan tugas/UTS Web Service Engineering. Layanan ini mengekspose data anggota tim melalui RESTful endpoint berbasis Express 5 dengan format respons JSON yang konsisten, validasi sisi server, dan dukungan caching memakai ETag.
 
-## Identitas
-- Nama        : Akhmad Hafidz Ardianto
-- NIM         : 230104040118
-- Program     : Web Service Engineering (UTS)
-- Kontak      : 2301040118@mhs.uin-antasari.ac.id
-
 ## Fitur Utama
 - **Resource-based URI**: `/api/members` dan `/api/members/:id` mengikuti prinsip REST.
 - **JSON-only**: service hanya menerima & mengirim `application/json` sehingga mudah diintegrasikan.
